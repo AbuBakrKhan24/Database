@@ -1,7 +1,9 @@
 Title: My dress up darling
-Description: Wakana Gojou is a fifteen year old high-school boy who was socially traumatized in the past due to his passions. That incident left a mark on him that made him into a social recluse. Until one day he had an encounter with Kitagawa who is a sociable gyaru, who is the complete opposite of him. They soon share their passions with one another which leads to their odd relationship.
-Officially published:
-- In English by Square Enix as My Dress-Up Darling
-- In French by Kana as Sexy Cosplay Doll
-- In German by Egmont Manga as More than a Doll
+Description: Wakana Gojou is a fifteen year old high-school boy who 
+             was socially traumatized in the past due to his passions. That incident
+             left a mark on him that made him into a social recluse. Until one day
+             he had an encounter with Kitagawa who is a sociable gyaru, who is the
+             complete opposite of him. They soon share their passions with one another
+             which leads to their odd relationship.
+          
 Author: Shinichi Fukuda

@@ -1,3 +1,16 @@
 Title: Akame ga KILL!
-Description: Tatsumi is a fighter who, accompanied by his two childhood friends, sets off to the Capital in search of a way to make money to assist his poverty-stricken village. After being separated from his friends, Tatsumi not only fails to enlist in the army, but is swindled out of all his money. He is then taken in by a noble family who offer him help; after finding himself in a messy situation Tatsumi is rescued by a group of assassins known as Night Raid, and is invited to join their ranks. Composed of the swordswoman Akame, a young woman armed with a huge pair of scissors named Sheele, the string manipulator Lubbock, the armored warrior Bulat, the sniper Mine, the beast fighter Leone and their leader Najenda, Night Raid is also part of the revolutionary forces assembled to overthrow Prime Minister Honest, who manipulates the young emperor for his and his men's personal gain, leading the rest of the nation to poverty and strife.
+Description: Tatsumi is a fighter who, accompanied by his two childhood friends,
+             sets off to the Capital in search of a way to make money to assist 
+             his poverty-stricken village. After being separated from his friends,
+             Tatsumi not only fails to enlist in the army, but is swindled out of 
+             all his money. He is then taken in by a noble family who offer him help;
+             after finding himself in a messy situation Tatsumi is rescued by a group
+             of assassins known as Night Raid, and is invited to join their ranks. 
+             
+             Composed of the swordswoman Akame, a young woman armed with a huge pair
+             of scissors named Sheele, the string manipulator Lubbock, the armored 
+             warrior Bulat, the sniper Mine, the beast fighter Leone and their leader
+             Najenda, Night Raid is also part of the revolutionary forces assembled 
+             to overthrow Prime Minister Honest, who manipulates the young emperor for
+             his and his men's personal gain, leading the rest of the nation to poverty and strife.
 Author: Takahiro 
